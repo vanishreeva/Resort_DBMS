@@ -36,16 +36,16 @@ reasonable amount is refunded accordingly
 
 ## Technologies
 ### Hardware Requirements:
-Processor: i3 / i5 / i7; x64 based processor
-RAM: 4GB / 8GB
-Hard Drive: 250 GB
+* Processor: i3 / i5 / i7; x64 based processor
+* RAM: 4GB / 8GB
+* Hard Drive: 250 GB
 
 ### Software Requirements:
-Operating System Windows: 7 / 8 / 10, 64-bit
-Programming Language: PHP, HTML, CSS
-Database: MySQL Server
-Web Server Apache Web Server: 2.4.46
-Source Code Editor: Sublime Text Editor / Notepad++
+* Operating System Windows: 7 / 8 / 10, 64-bit
+* Programming Language: PHP, HTML, CSS
+* Database: MySQL Server
+* Web Server Apache Web Server: 2.4.46
+* Source Code Editor: Sublime Text Editor / Notepad++
 
 ## Demo
 To watch the Demo of this project, please click the link given below:
