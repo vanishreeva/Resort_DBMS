@@ -1,4 +1,4 @@
-### Resort_DBMS
+# Resort_DBMS
 Resort Database Management System with tracking of health status during Covid-19 situation
 
 ## Table of contents
@@ -15,7 +15,7 @@ resort database management system. The proposed project is a user-friendly easil
 relational database system (RDBMS) which aids the managers of the resorts to securely accommodate
 the customers by keeping track of their health status.
 
-#Objectives:
+### Objectives:
 * The proposed project is an RDBMS for online room booking system for resorts
 * The main objective is to develop and implement a safe accommodation system by monitoring
 the health status of the staff and customers
@@ -35,18 +35,18 @@ reasonable amount is refunded accordingly
 * Therefore, the proposed project is efficient in terms of its functionality and time consumption
 
 ## Technologies
-#Hardware Requirements:
+### Hardware Requirements:
 Processor: i3 / i5 / i7; x64 based processor
 RAM: 4GB / 8GB
 Hard Drive: 250 GB
 
-#Software Requirements:
+### Software Requirements:
 Operating System Windows: 7 / 8 / 10, 64-bit
 Programming Language: PHP, HTML, CSS
 Database: MySQL Server
 Web Server Apache Web Server: 2.4.46
 Source Code Editor: Sublime Text Editor / Notepad++
 
-## Demo of the Project:
+## Demo
 To watch the Demo of this project, please click the link given below:
 https://drive.google.com/file/d/1SWu626m0ZDq5ZYv_W3rbp9mbN1u0q1jg/view?usp=sharing
